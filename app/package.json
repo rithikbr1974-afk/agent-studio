@@ -1,0 +1,16 @@
+{
+  "name": "agent-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A desktop-style coding agent interface on top of OpenCode, OmniRoute and FreeLLMAPI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@xterm/addon-fit": "0.10.0",
+    "@xterm/xterm": "5.5.0",
+    "dompurify": "3.2.4",
+    "marked": "15.0.7"
+  }
+}

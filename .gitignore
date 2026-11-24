@@ -1,0 +1,11 @@
+.env
+*.key
+auth.json
+node_modules/
+logs/
+data/
+playground/
+app/**/*.exe
+app/agent-studio.ico
+vendor/
+kit/
